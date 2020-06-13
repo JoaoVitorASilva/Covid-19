@@ -1,3 +1,5 @@
+#   git add . && git commit -m "Editado por Pedro" && git push --force
+#   git add . && git push --force
 from docx import Document
 
 doc = Document("Covid-19.docx")
